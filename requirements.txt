@@ -1,0 +1,6 @@
+numpy==1.16.*
+sklearn
+tensorflow==1.13.1
+keras==2.2.4
+h5py
+matplotlib
